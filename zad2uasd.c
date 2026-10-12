@@ -3,7 +3,7 @@
 число. Примерен вход: 417 => Изход: 28 = 4 * 1 * 7;*/
 #include<stdio.h>
 int main(){
-    int num=417;
+    int num=1997;
     int res=1;
     while(num>0){
         res=res*(num%10);
